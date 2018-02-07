@@ -11,7 +11,7 @@ object Collatz_Conjecture extends App {
     dividedNums.append(num)
 
     var currentNum = num
-
+    
       do {
 
         if (currentNum % 2 == 0) {
