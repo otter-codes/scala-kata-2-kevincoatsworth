@@ -1,0 +1,3 @@
+object Collatz_Conjecture {
+
+}
