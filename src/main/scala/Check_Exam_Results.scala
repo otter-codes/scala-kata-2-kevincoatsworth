@@ -34,7 +34,7 @@ def checkExamResults(correct : List[String], user : List[String]): Int = {
   }
 
   println(checkExamResults(List("a", "b", "c", "d"), List("a", "b", "c", "d")))
-  println(checkExamResults(List("a",	"b",	"c",	"d"),	List("a",	"a",	"a",	"a")))
-  println(checkExamResults(List("a",	"b",	"c",	"d"),	List("a",	"a",	"a",	"")))
+  println(checkExamResults(List("a", "b", "c", "d"), List("a", "a", "a", "a")))
+  println(checkExamResults(List("a", "b", "c", "d"), List("a", "a", "a", "")))
 
 }
