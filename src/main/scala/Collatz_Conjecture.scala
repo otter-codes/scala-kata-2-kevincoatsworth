@@ -35,7 +35,7 @@ object Collatz_Conjecture extends App {
 
     while(currentNum != 1)
 
-    //println(dividedNums)
+    println(dividedNums)
     println("The length of your Collatz Conjecture is: " + dividedNums.length)
 
   }
